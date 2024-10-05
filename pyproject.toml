@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "pik-normal"
+version = "0.1.0"
+description = ""
+authors = ["vovmomyt <volodya.artemev.1999@mail.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.7, <=3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
